@@ -2,10 +2,10 @@ import java.util.*;
 
 class Solution {
     public int solution(int X, int[] A) {
-        HashMap<Integer, Boolean> leaves = new HashMap<>();
+        Set<Integer> leaves = new HashSet<>();
 
         for (int i = 0; i < A.length; i++){
-            leaves.put(A[i], true);
+            leaves.add(A[i]);
             
             // In the event that we have enough leaves,
             // report how long we had to wait.
@@ -15,4 +15,3 @@ class Solution {
         return -1;
     }
 }
-
