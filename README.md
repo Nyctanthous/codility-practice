@@ -1,6 +1,6 @@
 # codility-practice
 
-My solutions to Codility's sample problems that recieve perfect scores. Mostly here for my own benefit. All solutions were solved in the time constraints provided by Codility.
+My solutions to Codility's sample problems, as I get time to do them. Mostly here for my own benefit. All solutions were solved in the time constraints provided by Codility.
 
 I've solved these problems in a "no hands barred" fashion; if I thought I could implement a faster solution than the suggested method did, I always opted for the faster one.
 
